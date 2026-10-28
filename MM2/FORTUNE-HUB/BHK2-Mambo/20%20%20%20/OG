@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/Kiro-Mamdo/fb112fc291d801be6ae9fc9c79bbc282/raw/25f0e835fc7813b361814db760a4f68022c83288/gistfile1.txt"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a724195628b652da65d533c4ec587547b62c13471fccec8fb3e03ea823bfeed0/download"))()
